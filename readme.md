@@ -5,11 +5,11 @@ Présentation du projet : le but est de réaliser un jeu.
 * MySql
 * Apache
 
-|Description|Langages|Technique de programmation|
-|-|-|-|
-|inscription en ligne|php, MySql|développement|
-|sio crawler le jeu|c#|programmation objet|
-|sauvegarde du contexte|mysql|programmation produisant procédures|
+|     Description      | Langages |     Technique de programmation    |
+|----------------------|----------|-----------------------------------|
+| inscription en ligne |php, MySql|          développement            |
+|  sio crawler le jeu  |    c#    |          programmation objet      |
+|sauvegarde du contexte|   mysql  |programmation produisant procédures|
 
 # L'inscription en ligne #
 Site web permettant à un joueur de s'incrire en ligne.
