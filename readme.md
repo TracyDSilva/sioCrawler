@@ -5,6 +5,10 @@ Présentation du projet : le but est de réaliser un jeu.
 * MySql
 * Apache
 
+1. Inscription en ligne
+2. Développement du jeu en lui même
+3. La sauvegarde des personnages et du contenu du jeu
+
 |     Description      | Langages |     Technique de programmation    |
 |----------------------|----------|-----------------------------------|
 | inscription en ligne |php, MySql|          développement            |
