@@ -5,7 +5,7 @@ Présentation du projet : le but est de réaliser un jeu.
 * MySql
 * Apache
 
-|**Description**|**Langages**|**Technique de programmation**|
+|Description|Langages|Technique de programmation|
 |-|-|-|
 |inscription en ligne|php, MySql|développement|
 |sio crawler le jeu|c#|programmation objet|
