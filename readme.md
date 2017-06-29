@@ -1,9 +1,13 @@
 # Projet sioCrawler #
-
+Présentation du projet : le but est de réaliser un jeu.
 * Git
 * Visual Studio
 * MySql
 * Apache
+
+|    description     | langages |technique de programmation|
+|--------------------|----------|--------------------------|
+|inscription en ligne|php, MySql|      développement       |
 
 # L'inscription en ligne #
 Site web permettant à un joueur de s'incrire en ligne.
